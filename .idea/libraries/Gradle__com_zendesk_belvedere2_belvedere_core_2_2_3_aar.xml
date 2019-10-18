@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.zendesk.belvedere2:belvedere-core:2.2.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c89e4fe75669b0a94754d73c5eb435a5/jetified-belvedere-core-2.2.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c89e4fe75669b0a94754d73c5eb435a5/jetified-belvedere-core-2.2.3/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zendesk.belvedere2/belvedere-core/2.2.3/a42e07aca0bd37b1450afca653e79da4ea0593a4/belvedere-core-2.2.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zendesk.belvedere2/belvedere-core/2.2.3/b43d85d2cf711e2275eeffba725d510bbf389fc6/belvedere-core-2.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
